@@ -4,7 +4,8 @@ function convertFahrenheitToCelsius(fahrenheit) {
   return result;
 }
 
-const fahrenheit = prompt("Masukkan temperatur dalam Fahrenheit:");
+// contoh penggunaan
+const fahrenheit = 400;
 
 console.log(
   `Hasil covert temparatur dalam Celsius: ${fahrenheitToCelsius(fahrenheit)}`
