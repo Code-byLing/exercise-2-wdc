@@ -4,7 +4,7 @@ This is a simple project to learn Git and GitHub.
 
 ## Task 1
 
-- I'm using index.js to do activities below:
+- I'm using index.html to do activities below:
 
 - Initializing a Repository
 - Create a new directory on your computer
